@@ -1,0 +1,14 @@
+{
+  "receipts": [
+    { "username": "yossi", "eventName": "string", "ticketsBought": 2 },
+    { "username": "yossi", "eventName": "string", "ticketsBought": 2 },
+    { "username": "yossi", "eventName": "string", "ticketsBought": 2 },
+    { "username": "yossi", "eventName": "string1", "ticketsBought": 2 },
+    { "username": "yossi", "eventName": "string1", "ticketsBought": 2 },
+    { "username": "yossi1", "eventName": "string1", "ticketsBought": 2 },
+    { "username": "yossi1", "eventName": "string1", "ticketsBought": 2 },
+    { "username": "yossi1", "eventName": "string", "ticketsBought": 2 },
+    { "username": "yossi1", "eventName": "string", "ticketsBought": 2 },
+    { "username": "yossi1", "eventName": "string", "ticketsBought": 2 }
+  ]
+}

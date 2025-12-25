@@ -1,0 +1,6 @@
+{
+  "events": [
+    { "eventName": "string", "ticketsForSale": 82, "createdBy": "yossi1" },
+    { "eventName": "string1", "ticketsForSale": 92, "createdBy": "yossi" }
+  ]
+}
