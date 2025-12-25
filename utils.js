@@ -68,15 +68,6 @@ export async function eventSub(eventsList, eventBuy, quantity) {
   return eventsList;
 }
 
-export async function eventSub(eventsList, eventBuy, quantity) {
-  for (let i = 0; i < eventsList.length; i++) {
-    if (eventsList[i].eventName === eventBuy) {
-      console.log(eventsList[i].eventName);
-      eventsList[i].ticketsForSale -= quantity;
-    }
-  }
-  return eventsList;
-}
 
 export async function countNum(List, key, params) {
   let count = 0;
